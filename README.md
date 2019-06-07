@@ -1,4 +1,4 @@
-# PeopleSoft-Reconcile
+# PeopleSoft-Alma-Reconcile
 A simple search utility written in AutoHotkey to search a Transactions - Actuals for Download.xlsx from PeopleSoft dashboards and paste the DocumentID into a paid invoice in Alma.
 
 Enter the InvoiceID or other string to search the transactions file.
